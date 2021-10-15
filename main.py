@@ -1,2 +1,1 @@
-print("Hello")
-print("I am printing")
+print("Seminar 4")
